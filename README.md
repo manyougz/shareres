@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 漫游资源-分享
+tagline: 本站所有资源均来自网络，仅收集其链接，不保存数据.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
